@@ -4,9 +4,7 @@
 A nasty Discord bot. Useful when creativity isn't enough. Italian only, sorry fellas.
 
 ## Installation 
-`pip install -U discord.py`
-and 
-`pip install -U python-dotenv`
+`pip install -U discord.py python-dotenv`
 
 create a `.env` file and put `DISCORD_TOKEN=yourTokenHere`. You can retrive the token from Discord API page.
 
